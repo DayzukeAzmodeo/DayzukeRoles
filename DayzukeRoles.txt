@@ -10,7 +10,4 @@
 #Player4:Celebrity:El Panadero
 
 # --- Fin de la lista ---
-
-
-
-Dayzuke Azmodeo:Staff
+Dayzuke Azmodeo:Staff:El Gran Jefe
