@@ -1,0 +1,13 @@
+# Lista de roles para el Panel de Seguridad
+# Formato: NombreDeUsuario:Rol:TextoOpcional
+
+#              Admin              Staff              DJ              VIP              Celebrity
+
+#PlayerUno:Admin:Dueño del mundo
+#jugadorjugon:Staff
+#PlayerDos:DJ
+#PlayerTres:VIP:Miembro especial
+#Player4:Celebrity:El Panadero
+
+# --- Fin de la lista ---
+Dayzuke Azmodeo:Staff:El Gran Jefe
