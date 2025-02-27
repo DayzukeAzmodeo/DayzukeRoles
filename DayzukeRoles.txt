@@ -3,7 +3,7 @@
 
 #              Admin              Staff              DJ              VIP              Celebrity
 
-#PlayerUno:Admin:Dueño del mundo
+#PlayerUno:Admin:DueÃ±o del mundo
 #jugadorjugon:Staff
 #PlayerDos:DJ
 #PlayerTres:VIP:Miembro especial
@@ -14,3 +14,4 @@
 
 
 Dayzuke Azmodeo:Staff
+a
